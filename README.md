@@ -1,2 +1,2 @@
 # react-landing-page-1751909180460
-React app from template: landing-page
+React app generated with custom deployment.
